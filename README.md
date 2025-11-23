@@ -30,7 +30,7 @@ Currently, I'm working on low-cost hand-tracking systems for VR using Unity and 
 
 ## Let's connect
 
-I'm always happy to chat about algorithms, cool projects, or anything tech-related!
+Feel free to hit me up!
 
 📧 [Hossam_ElZarw@outlook.com](mailto:Hossam_ElZarw@outlook.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/hossamdarwish/)  
